@@ -1,4 +1,8 @@
-# WishSync Privacy Policy
+---
+layout: page
+title: "WishSync Privacy Policy"
+permalink: /wishsync-privacy/
+---
 
 **Effective date:** March 18, 2026
 

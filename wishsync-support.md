@@ -1,4 +1,8 @@
-# WishSync Support
+---
+layout: page
+title: "WishSync Support"
+permalink: /wishsync-support/
+---
 
 Need help with **WishSync**? This page is the official support resource for the app.
 
@@ -21,4 +25,4 @@ We aim to respond as soon as reasonably possible.
 
 ## Privacy Policy
 
-[Privacy Policy](https://adamaharoncx.github.io/)
+[View WishSync Privacy Policy](/wishsync-privacy/)
